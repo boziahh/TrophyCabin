@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "up": "trophycabin:block/armario_side",
+    "down": "trophycabin:block/armario_bottom",
+    "north": "trophycabin:block/armario_grooved_2x3_3_left",
+    "south": "trophycabin:block/armario_side",
+    "west": "trophycabin:block/armario_side",
+    "east": "trophycabin:block/armario_side",
+    "particle": "trophycabin:block/armario_side"
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "trophycabin:block/goose_statue" },
+		"facing=south": { "model": "trophycabin:block/goose_statue", "y": 180 },
+		"facing=west":  { "model": "trophycabin:block/goose_statue", "y": 270 },
+		"facing=east":  { "model": "trophycabin:block/goose_statue", "y": 90 }
+	}
+}

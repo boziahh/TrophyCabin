@@ -1,0 +1,19 @@
+{
+  "itemGroup.trophycabin": "Trophy Cabin",
+  "block.trophycabin.armario_grooved": "Grooved Wardrobe",
+  "block.trophycabin.armario_panel": "Panel Wardrobe",
+  "container.trophycabin.armario": "Wardrobe",
+  "block.trophycabin.hunting_table": "Hunting Table",
+  "container.trophycabin.hunting_table": "Quests",
+  "block.trophycabin.deer_fancy_trophy": "Fancy Deer Trophy",
+  "block.trophycabin.bison_fancy_trophy": "Fancy Bison Trophy",
+  "block.trophycabin.red_wolf_fancy_trophy": "Fancy Red Wolf Trophy",
+  "block.trophycabin.white_bear_rug": "White Bear Rug",
+  "block.trophycabin.brown_bear_rug": "Brown Bear Rug",
+  "block.trophycabin.black_bear_rug": "Black Bear Rug",
+  "block.trophycabin.goose_statue": "Goose Statue",
+  "block.trophycabin.cod_trophy": "Cod Trophy",
+  "block.trophycabin.salmon_trophy": "Salmon Trophy",
+  "block.trophycabin.fancy_salmon_trophy": "Fancy Salmon Trophy",
+  "block.trophycabin.fancy_cod_trophy": "Fancy Cod Trophy"
+}

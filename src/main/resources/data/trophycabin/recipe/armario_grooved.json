@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "PBP",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "minecraft:chiseled_bookshelf"
+    }
+  },
+  "result": {
+    "id": "trophycabin:armario_grooved",
+    "count": 3
+  }
+}

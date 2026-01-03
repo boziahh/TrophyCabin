@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "trophycabin:block/fancy_cod_trophy" },
+		"facing=south": { "model": "trophycabin:block/fancy_cod_trophy", "y": 180 },
+		"facing=west":  { "model": "trophycabin:block/fancy_cod_trophy", "y": 270 },
+		"facing=east":  { "model": "trophycabin:block/fancy_cod_trophy", "y": 90 }
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "trophycabin:block/quest_table_top",
+    "down": "trophycabin:block/quest_table_bottom",
+    "north": "trophycabin:block/quest_table_left",
+    "south": "trophycabin:block/quest_table_right",
+    "west": "trophycabin:block/quest_table_left",
+    "east": "trophycabin:block/quest_table_right"
+  }
+}

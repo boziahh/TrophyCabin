@@ -1,0 +1,19 @@
+{
+  "itemGroup.trophycabin": "Trophy Cabin",
+  "block.trophycabin.armario_grooved": "Armário com listras",
+  "block.trophycabin.armario_panel": "Armario com painéis",
+  "container.trophycabin.armario": "Armario",
+  "block.trophycabin.hunting_table": "Mesa de caça",
+  "container.trophycabin.hunting_table": "Missões",
+  "block.trophycabin.deer_fancy_trophy": "Troféu de veado chique",
+  "block.trophycabin.bison_fancy_trophy": "Troféu de bisão chique",
+  "block.trophycabin.red_wolf_fancy_trophy": "Troféu de lobo vermelho chique",
+  "block.trophycabin.white_bear_rug": "Tapete de urso branco",
+  "block.trophycabin.brown_bear_rug": "Tapete de urso marrom",
+  "block.trophycabin.black_bear_rug": "Tapete de urso preto",
+  "block.trophycabin.goose_statue": "Estátua da Niicksz",
+ "block.trophycabin.cod_trophy": "Troféu de bacalhau",
+  "block.trophycabin.salmon_trophy": "Troféu de salmão",
+  "block.trophycabin.fancy_salmon_trophy": "Trofeu de salmão chique",
+  "block.trophycabin.fancy_cod_trophy": "Troféu de bacalhau chique"
+}

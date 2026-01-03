@@ -1,0 +1,36 @@
+{
+  "variants": {
+
+    "facing=north,front_texture=0": { "model":"trophycabin:block/armario_panel_1x1" },
+    "facing=north,front_texture=1": { "model":"trophycabin:block/armario_panel_2x3_1_left" },
+    "facing=north,front_texture=2": { "model":"trophycabin:block/armario_panel_2x3_2_left" },
+    "facing=north,front_texture=3": { "model":"trophycabin:block/armario_panel_2x3_3_left" },
+    "facing=north,front_texture=4": { "model":"trophycabin:block/armario_panel_2x3_1_right" },
+    "facing=north,front_texture=5": { "model":"trophycabin:block/armario_panel_2x3_2_right" },
+    "facing=north,front_texture=6": { "model":"trophycabin:block/armario_panel_2x3_3_right" },
+
+    "facing=east,front_texture=0": { "model":"trophycabin:block/armario_panel_1x1","y":90 },
+    "facing=east,front_texture=1": { "model":"trophycabin:block/armario_panel_2x3_1_left","y":90 },
+    "facing=east,front_texture=2": { "model":"trophycabin:block/armario_panel_2x3_2_left","y":90 },
+    "facing=east,front_texture=3": { "model":"trophycabin:block/armario_panel_2x3_3_left","y":90 },
+    "facing=east,front_texture=4": { "model":"trophycabin:block/armario_panel_2x3_1_right","y":90 },
+    "facing=east,front_texture=5": { "model":"trophycabin:block/armario_panel_2x3_2_right","y":90 },
+    "facing=east,front_texture=6": { "model":"trophycabin:block/armario_panel_2x3_3_right","y":90 },
+
+    "facing=south,front_texture=0": { "model":"trophycabin:block/armario_panel_1x1","y":180 },
+    "facing=south,front_texture=1": { "model":"trophycabin:block/armario_panel_2x3_1_left","y":180 },
+    "facing=south,front_texture=2": { "model":"trophycabin:block/armario_panel_2x3_2_left","y":180 },
+    "facing=south,front_texture=3": { "model":"trophycabin:block/armario_panel_2x3_3_left","y":180 },
+    "facing=south,front_texture=4": { "model":"trophycabin:block/armario_panel_2x3_1_right","y":180 },
+    "facing=south,front_texture=5": { "model":"trophycabin:block/armario_panel_2x3_2_right","y":180 },
+    "facing=south,front_texture=6": { "model":"trophycabin:block/armario_panel_2x3_3_right","y":180 },
+
+    "facing=west,front_texture=0": { "model":"trophycabin:block/armario_panel_1x1","y":270 },
+    "facing=west,front_texture=1": { "model":"trophycabin:block/armario_panel_2x3_1_left","y":270 },
+    "facing=west,front_texture=2": { "model":"trophycabin:block/armario_panel_2x3_2_left","y":270 },
+    "facing=west,front_texture=3": { "model":"trophycabin:block/armario_panel_2x3_3_left","y":270 },
+    "facing=west,front_texture=4": { "model":"trophycabin:block/armario_panel_2x3_1_right","y":270 },
+    "facing=west,front_texture=5": { "model":"trophycabin:block/armario_panel_2x3_2_right","y":270 },
+    "facing=west,front_texture=6": { "model":"trophycabin:block/armario_panel_2x3_3_right","y":270 }
+  }
+}

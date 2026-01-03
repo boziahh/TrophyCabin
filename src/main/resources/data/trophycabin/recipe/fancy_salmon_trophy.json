@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GTG",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "T": {
+      "item": "trophycabin:salmon_trophy"
+    }
+  },
+  "result": {
+    "id": "trophycabin:fancy_salmon_trophy",
+    "count": 1
+  }
+}

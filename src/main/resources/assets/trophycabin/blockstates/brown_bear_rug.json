@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "trophycabin:block/brown_bear_rug" },
+		"facing=east":  { "model": "trophycabin:block/brown_bear_rug", "y": 90 },
+		"facing=south": { "model": "trophycabin:block/brown_bear_rug", "y": 180 },
+		"facing=west":  { "model": "trophycabin:block/brown_bear_rug", "y": 270 }
+	}
+}

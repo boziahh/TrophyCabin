@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "trophycabin:armario_grooved",
+    "trophycabin:armario_panel",
+    "trophycabin:hunting_table",
+    "trophycabin:deer_fancy_trophy",
+    "trophycabin:bison_fancy_trophy",
+    "trophycabin:red_wolf_fancy_trophy",
+    "trophycabin:goose_statue",
+    "trophycabin:cod_trophy",
+    "trophycabin:salmon_trophy",
+    "trophycabin:fancy_cod_trophy",
+    "trophycabin:fancy_salmon_trophy"
+  ]
+}

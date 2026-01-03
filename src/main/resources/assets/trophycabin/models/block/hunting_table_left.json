@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/lectern",
+  "textures": {
+    "base": "trophycabin:block/armario_side",
+    "front": "trophycabin:block/armario_side",
+    "sides": "trophycabin:block/armario_side",
+    "top": "trophycabin:block/hunting_table_top_left"
+  }
+}

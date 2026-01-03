@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "facing=north,half=left": { "model": "trophycabin:block/hunting_table_left" },
+    "facing=south,half=left": { "model": "trophycabin:block/hunting_table_left", "y": 180 },
+    "facing=west,half=left": { "model": "trophycabin:block/hunting_table_left", "y": 270 },
+    "facing=east,half=left": { "model": "trophycabin:block/hunting_table_left", "y": 90 },
+
+    "facing=north,half=right": { "model": "trophycabin:block/hunting_table_right" },
+    "facing=south,half=right": { "model": "trophycabin:block/hunting_table_right", "y": 180 },
+    "facing=west,half=right": { "model": "trophycabin:block/hunting_table_right", "y": 270 },
+    "facing=east,half=right": { "model": "trophycabin:block/hunting_table_right", "y": 90 }
+  }
+}

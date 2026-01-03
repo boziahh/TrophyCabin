@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GTG",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "T": {
+      "item": "wildernature:red_wolf_trophy"
+    }
+  },
+  "result": {
+    "id": "trophycabin:red_wolf_fancy_trophy",
+    "count": 1
+  }
+}

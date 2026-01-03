@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "WBW",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "W": {
+      "tag": "minecraft:signs"
+    },
+    "B": {
+      "item": "minecraft:chiseled_bookshelf"
+    }
+  },
+  "result": {
+    "id": "trophycabin:armario_panel",
+    "count": 3
+  }
+}
